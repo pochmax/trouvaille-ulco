@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "trouvaille"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "trouvaille-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

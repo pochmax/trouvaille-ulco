@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181811553606",
+    "project_id": "trouvaille-ulco",
+    "storage_bucket": "trouvaille-ulco.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181811553606:android:6e00571a63a67aac8ff147",
+        "android_client_info": {
+          "package_name": "com.trouvaille"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Je1B1iU1k5nJYEZPX9tz2z1Q20NzyNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
